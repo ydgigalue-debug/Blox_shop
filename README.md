@@ -1,4 +1,3 @@
-blox_shop/
-├─ index.js
-├─ package.json
-├─ README.md
+# Blox Shop Bot
+
+Bot de teste para Discord, mostrando lista de frutas e notificando quando alguém pede.
